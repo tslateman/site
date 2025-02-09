@@ -2,23 +2,39 @@
 
 Define good. The answer often depends.
 
-- **Ethics & Character:** Courage, Integrity, Justice
+### Self
 
-- **Connection & Belonging:** Relationships, Community, Kindness
+A focus on personal growth and inner harmony.
 
-- **Achievement & Productivity:** Results, Pragmatism, Focus
+- **Mind & Memory:** Writing, Reflecting, Journaling
 
 - **Intellect & Growth:** Reason, Learning, Wisdom
 
 - **Personal Well-being:** Balance, Autonomy, Mindfulness
 
-- **Innovation & Expression:** Creativity, Curiosity, Exploration
+### Social
+
+Emphasizing meaningful connections and ethical interactions.
+
+- **Ethics & Character:** Courage, Integrity, Justice
+
+- **Connection & Belonging:** Relationships, Community, Kindness
+
+- **Adaptability & Awareness:** Context, Sensitivity, Flexibility
+
+### Impact
+
+Striving for tangible results and making a difference in the world.
+
+- **Achievement & Productivity:** Results, Pragmatism, Focus
 
 - **Structure & Organization:** Order, Efficiency, Accuracy
 
-- **Mind & Memory:** Writing, Reflecting, Journaling
+- **Innovation & Expression:** Creativity, Curiosity, Exploration
 
-- **Adaptability & Awareness:** Context, Sensitivity, Flexibility
+### At least try
+
+A focus on values can be stressful. No one is perfect and that's okay. At least try. Strive to live by values that resonate with you. Yoda was wrong. Life is more than just do or do-not. There is no life without at least trying.
 
 ### A quick note on Honesty
 
@@ -34,6 +50,6 @@ Honesty is so often cited as a value that it almost becomes cliche. I think the 
 
 [Level Up Brain](./level-up-brain.md)
 
-## Reference Material
+## Other Stuff
 
 [Marcus Aurelius Virtues](./marcus-aurelius-virtues.md)
