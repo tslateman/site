@@ -33,3 +33,7 @@ Honesty is so often cited as a value that it almost becomes cliche. I think the 
 [Effective Communication](./communication.md)
 
 [Level Up Brain](./level-up-brain.md)
+
+## Reference Material
+
+[Marcus Aurelius Virtues](./marcus-aurelius-virtues.md)
