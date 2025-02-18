@@ -12,7 +12,7 @@ Grounding what's good: [values](./values.md)
 
 [Effective Communication](./communication.md)
 
-[Level Up Brain](./level-up-brain.md)
+[Thinking Clearly](./thinking-clearly.md)
 
 ## Other Stuff
 
