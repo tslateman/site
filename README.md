@@ -8,6 +8,8 @@ Grounding what's good: [values](./values.md)
 
 ## Thoughts
 
+[Why Write _This_ Down](./why-write-this-down.md)
+
 [Effective Communication](./communication.md)
 
 [Level Up Brain](./level-up-brain.md)
