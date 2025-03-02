@@ -1,4 +1,4 @@
-## Marcus Aurelius
+# Marcus Aurelius
 
 Marcus Aurelius emphasized several key virtues in his "Meditations" and personal philosophy, drawing from Stoic traditions while adding his own insights. Here are the main virtues he emphasized:
 
