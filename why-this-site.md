@@ -1,4 +1,4 @@
-# Why Write This Down
+# Why This Site
 
 As I've mentioned before, it's important to [write things down](./write-things-down.md). I want to try elaborating on personal reasons for this site.
 
