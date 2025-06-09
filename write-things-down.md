@@ -4,15 +4,25 @@ The importance of writing things down...
 
 - By hand
 - By typing
-- By massaging prompts to an LLM until it spits out the information you want
+- By prompting and editing
 
 These each have different strengths. The benefit of all of them is to document your thoughts to help organize them into reusable text. Text that can be refined, referenced, and reshared across various platforms.
 
 ## Favorite Reasons
 
-- Clarifies thinking and refines our understanding.
-- Written record to preserve knowledge and ideas
-- Promotes creativity and reflection
+Why I love writing things down.
+
+### Clarifies Thinking and Refines Understanding
+
+The act of writing demands precision where thoughts once wandered loose. When we wrestle thoughts and commit to words, fuzzy notions crystallize into sharper ideas. Each sentence tests clarity, forcing us to examine what we truly mean. Through this we deepen understanding.
+
+### Written Record to Preserve Knowledge and Ideas
+
+Memory proves unreliable, fading what seemed unforgettable. Writing captures the fleeting spark of insight before it dims. Knowledge accumulates through the words.
+
+### Promotes Creativity and Reflection
+
+Writing enables reflection on thoughts we hadn't recognized as our own. Through this reflection, we discover patterns in our thinking, connections between distant ideas, and truths emerge from the fog.
 
 ## More with Resources
 
