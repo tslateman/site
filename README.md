@@ -16,6 +16,8 @@ Grounding what's good: [values](./values.md)
 
 [Thinking Clearly](./thinking-clearly.md)
 
+[Documentation as Code](./documentation-as-code.md)
+
 ## Other Stuff
 
 [Marcus Aurelius Virtues](./marcus-aurelius-virtues.md)
