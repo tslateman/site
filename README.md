@@ -23,3 +23,5 @@ Grounding what's good: [values](./values.md)
 [Marcus Aurelius Virtues](./marcus-aurelius-virtues.md)
 
 [Virtues of a Programmer](./virtues-of-a-programmer.md)
+
+[i am ackbot](./i-am-ack-bot.md)
