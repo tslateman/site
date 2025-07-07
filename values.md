@@ -1,6 +1,6 @@
 # Values
 
-*What we value shapes who we become. These principles guide decisions when paths diverge.*
+*Values inform decisions. These principles guide decisions when paths diverge.*
 
 Define good. The answer often depends. Context is king.
 
@@ -20,7 +20,7 @@ Striving for tangible results and making a difference. Ideas without execution r
 
 ## At least try
 
-A focus on values can be stressful. No one is perfect and that's okay. At least try. Strive to live by values that resonate with you. Yoda was wrong. Life is more than just do or do-not. There is no life without at least trying.
+Pursuing ideals is challenging given our imperfect nature. Progress matters more than flawless execution. Strive to live by values that resonate with you. Yoda was wrong. Life is more than just do or do-not. There is no life without at least trying.
 
 ## A quick note on Honesty
 
