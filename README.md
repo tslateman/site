@@ -1,16 +1,16 @@
 # Home
 
-## Values
+Thoughts on living and working well. Where philosophy meets programming.
 
-Grounding what's good: [values](./values.md)
+## Core Philosophy
 
-## Principles
+[Values](./values.md)
 
 [Write Things Down](./write-things-down.md)
 
-## Thoughts
-
 [Why This Site](./why-this-site.md)
+
+## Practices
 
 [Effective Communication](./communication.md)
 
@@ -18,10 +18,12 @@ Grounding what's good: [values](./values.md)
 
 [Documentation as Code](./documentation-as-code.md)
 
-## Other Stuff
+## Inspiration
 
 [Marcus Aurelius Virtues](./marcus-aurelius-virtues.md)
 
 [Virtues of a Programmer](./virtues-of-a-programmer.md)
 
-[i am ackbot](./i-am-ack-bot.md)
+## Random
+
+[i am ack bot](./i-am-ack-bot.md)
