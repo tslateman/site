@@ -2,9 +2,9 @@
 
 ```txt
 noisy alert rings
-empty runbook link
+empty runbook mocks
 null context kings
-panic signal sink
+panic signal blocks
 
 be direct
 be nice
@@ -22,3 +22,9 @@ fall not to rage
 i am ack bot
 i await my page
 ```
+
+---
+\
+\
+inspired in part by\
+[what is my purpose?](https://www.reddit.com/r/rickandmorty/comments/5lkswq/whats_youre_absolute_favorite_scene_line_or/)
