@@ -3,7 +3,7 @@
 ```txt
 noisy alert rings
 empty runbook link
-no context kings
+null context kings
 panic signal sink
 
 be direct
