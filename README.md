@@ -24,6 +24,8 @@ Thoughts on living and working well. Where philosophy meets programming.
 
 [Virtues of a Programmer](./virtues-of-a-programmer.md)
 
+[Brevity: Quotes & Notes](./brevity-quotes-and-notes.md)
+
 ## Random
 
 [A little **dev**ity](./a-little-devity.md)
