@@ -20,9 +20,9 @@ Google Translate converts this to "I only made this one longer because I didn't 
 
 Great humor can be achieved with plain words. The word "loisir" (leisure) isn't particularly fancy, but Twain's version is simpler.
 
-Just one problem: those weren't his actual words. The [original wording](https://www.marktwainproject.org/letters/uccl00617/#:~:text=You%E2%80%99ll%20have%20to%20excuse%20my%20lengthiness%E2%80%94the%20reason%20I%20dread%20writing%20letters%20is%20because%20I%20am%20so%20apt%20to%20get%20to%20slinging%20wisdom%20%26%20forget%20to%20let%20up.%20Thus%20much%20precious%20time%20is%20lost.) from Twain is not as brief, though arguably more concise. [^1]
+Just one problem: those weren't his actual words. The honest [original wording](https://www.marktwainproject.org/letters/uccl00617/#:~:text=You%E2%80%99ll%20have%20to%20excuse%20my%20lengthiness%E2%80%94the%20reason%20I%20dread%20writing%20letters%20is%20because%20I%20am%20so%20apt%20to%20get%20to%20slinging%20wisdom%20%26%20forget%20to%20let%20up.%20Thus%20much%20precious%20time%20is%20lost.) from Twain, though arguably more concise, was not as brief as the popular quote. The subtle balance between these is almost impossible to strike perfectly. [^1]
 
-I ought to leave it here for brevity, but I'm too honest. I have to show my work.
+I ought to leave it here for brevity, but I have to show my work for completeness.
 
 ## Extra Credit: Nuance
 
