@@ -6,9 +6,9 @@
 
 ## Leisure Time
 
-Brevity takes work. Mark Twain wrote:
+Brevity takes work.
 
->"I didn't have time to write a short letter, so I wrote a long one instead."
+Many quote Mark Twain with "I didn't have time to write a short letter, so I wrote a long one instead."
 
 Delightful! But was he *first* to write this?
 
@@ -18,7 +18,9 @@ In 1656, French mathematician and philosopher [Blaise Pascal](https://en.wikiquo
 
 Google Translate converts this to "I only made this one longer because I didn't have the leisure to make it shorter." Almost, but not *exactly* the same.
 
-Great humor can be achieved with plain words. The word "loisir" (leisure) isn't particularly fancy, but Twain's version is still simpler.
+Great humor can be achieved with plain words. The word "loisir" (leisure) isn't particularly fancy, but Twain's version is simpler.
+
+Just one problem: those weren't his actual words. The [original wording](https://www.marktwainproject.org/letters/uccl00617/#:~:text=You%E2%80%99ll%20have%20to%20excuse%20my%20lengthiness%E2%80%94the%20reason%20I%20dread%20writing%20letters%20is%20because%20I%20am%20so%20apt%20to%20get%20to%20slinging%20wisdom%20%26%20forget%20to%20let%20up.%20Thus%20much%20precious%20time%20is%20lost.) from Twain is not as brief, though arguably more concise. [^1]
 
 I ought to leave it here for brevity, but I'm too honest. I have to show my work.
 
@@ -60,7 +62,7 @@ I love Bridges's poignant (and ironically verbose) portrayal of the [speech is s
 
 There is certainly wisdom here, but most of us cannot live that way. We don't all have the luxury to always remain silent. Doing so can sometimes allow unfortunate events to occur. Of course, actions speak louder than words, and yet we still must express ourselves, share our ideas, and communicate through other means when action alone is insufficient.
 
-Einstein is credited with saying, "Make things as simple as possible, but no simpler." [^1]
+Einstein is credited with saying, "Make things as simple as possible, but no simpler." [^2]
 
 That seems like a good target. I'm no Einstein, so I'm sure there's a simpler way to put this. Since a haiku would be too reductive, I'll just leave this here:
 
@@ -81,4 +83,7 @@ Let you do you
 \
 \
 \
-[^1]: *In fairness, [Quote Investigator](https://quoteinvestigator.com/2011/05/13/einstein-simple/) quibbles about the precise origins of this Einstein quote, but time is both limited and relative. Do as you must.*
+\
+[^1]: *Twain's [actual letter](https://www.marktwainproject.org/letters/uccl00617/) wrote: "You’ll have to excuse my lengthiness—the reason I dread writing letters is because I am so apt to get to slinging wisdom & forget to let up. Thus much precious time is lost." - Relatable.*
+
+[^2]: *In fairness, [Quote Investigator](https://quoteinvestigator.com/2011/05/13/einstein-simple/) quibbles about the precise origins of this Einstein quote, but time is both limited and relative. Do as you must.*
