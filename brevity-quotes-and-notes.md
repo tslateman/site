@@ -38,7 +38,7 @@ Albert Maysles said, “Tyranny is the deliberate removal of nuance” and I thi
 
 ## Resist Tyranny and Choose Simplicity
 
-I searched "Tyranny of verbosity" to look for existing work and was surprised to find no hits. Gemini tried and got the general idea. Unsatisfied, I tried to find quotes to at least describe the concept.
+I searched "Tyranny of verbosity" to look for existing work and was surprised to find no good results. Gemini tried and got the general idea. Unsatisfied, I tried to find quotes to at least describe the concept.
 
 > "I notice that you use plain, simple language, short words and brief sentences. That is the way to write English—it is the modern way and the best way. Stick to it; don't let fluff and flowers and verbosity creep in."
 >
