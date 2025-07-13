@@ -4,9 +4,11 @@
 
 ---
 \
-Mark Twain said "I didn't have time to write a short letter, so I wrote a long one instead."
+Mark Twain said, "I didn't have time to write a short letter, so I wrote a long one instead."
 
-Delightful! But was he *first* to say it? With Bastille Day on Monday, I give some credit to French mathematician and philosopher Blaise Pascal, who in a letter from 1657 said:
+Delightful! But was he *first* to say it?
+
+With Bastille Day on Monday, I give some credit to French mathematician and philosopher Blaise Pascal, who in a letter from 1657 said:
 
 > "Je n’ai fait celle-ci plus longue que parce que je n’ai pas eu le loisir de la faire plus courte."
 
@@ -18,11 +20,13 @@ I ought to leave it here for brevity, but I'm too honest. I have to show my work
 
 ## Extra Credit: Nuance
 
-I only found the above thanks to Tania Lombrozo in an [NPR article on brevity](https://www.npr.org/sections/13.7/2014/02/03/270680304/this-could-have-been-shorter#:~:text=recognizing%20and%20negotiating%20the%20trade%20offs%20between%20brevity%20and%20nuance%2C%20between%20punch%20line%20and%20qualification%2C%20is%20itself%20half%20the%20value.) where she writes, "Recognizing and negotiating the tradeoff between brevity and nuance, between punch line and qualification, is itself half the value."
+I only found the above thanks to Tania Lombrozo in an [NPR article on brevity](https://www.npr.org/sections/13.7/2014/02/03/270680304/this-could-have-been-shorter#:~:text=recognizing%20and%20negotiating%20the%20trade%20offs%20between%20brevity%20and%20nuance%2C%20between%20punch%20line%20and%20qualification%2C%20is%20itself%20half%20the%20value.) where she writes:
+
+> "Recognizing and negotiating the tradeoff between brevity and nuance, between punch line and qualification, is itself half the value."
 
 Excellent point with many potential threads. Today, I'll focus on "nuance" because of its French origin.
 
-Messages already reduce complex thoughts and emotions into a proxy of words, so special care must be taken to provide just enough detail to at least acknowledge the nuance related.
+Messages already reduce complex thoughts and emotions into a proxy of words, so special care must be taken to provide just enough detail to at least acknowledge the related nuance.
 
 Albert Maysles said, “Tyranny is the deliberate removal of nuance” and I think this pairs nicely with "Tyranny of choice" by Barry Schwartz in *The Paradox of Choice: Why More Is Less* (2004). Technically the latter is on too many decisions, so "Tyranny of verbosity" might be more appropriate.
 
@@ -38,9 +42,9 @@ Twain strikes again. However, these are more words than I'd expect from him. Per
 
 For brevity, Mokokoma Mokhonoana does well:
 
-> “Verbosity wastes a portion of the reader’s or listener’s life.”  
+> "Verbosity wastes a portion of the reader's or listener's life."
 
-Less dramatic than "Tyranny of verbosity" but this was stated before LLMs got so big. We need better words against the oppressors of robotic language.
+Less dramatic than "Tyranny of verbosity" but this was stated before LLMs got so big. We need better words against these oppressors of robotic language.
 
 ## Why Say Anything at All?
 
