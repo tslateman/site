@@ -3,18 +3,20 @@
 `2025-07-12`
 
 ---
-\
+
+## Leisure Time
+
 Mark Twain said, "I didn't have time to write a short letter, so I wrote a long one instead."
 
 Delightful! But was he *first* to say it?
 
-With Bastille Day on Monday, I give some credit to French mathematician and philosopher Blaise Pascal, who in a letter from 1657 said:
+French mathematician and philosopher Blaise Pascal said in a letter from 1657:
 
 > "Je n’ai fait celle-ci plus longue que parce que je n’ai pas eu le loisir de la faire plus courte."
 
-Google Translate tells me this isn't *exactly* the same. For one, the word "loisir" translates to leisure.
+Google Translate converts this to "I only made this one longer because I didn't have the leisure to make it shorter." Almost, but not *exactly* the same.
 
-The art of Twain's delivery is great humor with simple words. Leisure is an implied luxury.
+The word "loisir" (leisure) isn't particularly fancy, but Twain's version is still simpler. Great humor can be achieved with plain words.
 
 I ought to leave it here for brevity, but I'm too honest. I have to show my work.
 
