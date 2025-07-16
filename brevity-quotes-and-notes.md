@@ -82,8 +82,8 @@ Let you do you
 
 \
 \
-\
-\
+<br>
+
 [^1]: *Twain's [actual letter](https://www.marktwainproject.org/letters/uccl00617/) wrote: "You’ll have to excuse my lengthiness—the reason I dread writing letters is because I am so apt to get to slinging wisdom & forget to let up. Thus much precious time is lost." - Relatable.*
 
 [^2]: *In fairness, [Quote Investigator](https://quoteinvestigator.com/2011/05/13/einstein-simple/) quibbles about the precise origins of this Einstein quote, but time is both limited and relative. Do as you must.*
