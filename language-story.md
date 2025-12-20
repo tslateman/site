@@ -1,4 +1,7 @@
+# Language Story
+
 語言寓言 (yǔyán yùyán)
+
 ## Communication power
 
 Language is a funny thing. Communication is the real power, yet language often gets all the attention.
@@ -69,11 +72,12 @@ Taiwanese, especially **Taigi** (臺語; _Tâi-gí_), has a delightful sense o
 
 Back to the "story" before, google search yielded the following from AI:
 
-| Word   | Pinyin   | Meaning                      |
-| ------ | -------- | ---------------------------- |
-| 故事     | gùshi    | story, tale, narrative       |
-| 小说<br> | xiǎoshuō | fiction, novel               |
-| 楼层     | lóucéng  | story or floor of a building |
+| Word | Pinyin   | Meaning                      |
+| ---- | -------- | ---------------------------- |
+| 故事 | gùshi    | story, tale, narrative       |
+| 小说 | xiǎoshuō | fiction, novel               |
+| 楼层 | lóucéng  | story or floor of a building |
+
 None of the confusing collisions that occur with the American "story" usage. Note how characters used for language are not used to compose the word for story (故事).
 ### Bonus language
 
