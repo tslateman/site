@@ -117,7 +117,7 @@ A hella good song!
 
 ### Just semantics
 
-The real value is knowing what someone _means_, not just what the words mean. Words are only an approximation of subjective experience ([qualia](https://en.wikipedia.org/wiki/Qualia)) anyway. With [semantic change](https://en.wikipedia.org/wiki/Semantic_change) even important words like _literally_ do not mean what they used to according to textbook definitions. LLMs are powerful, codifying the [semantic gap](https://en.wikipedia.org/wiki/Semantic_gap) with their deep neural networks in hidden layers fooling even experts into believing the machines understand.
+The real value is knowing what someone _means_, not just what the words mean. Words are only an approximation of subjective experience ([qualia](https://en.wikipedia.org/wiki/Qualia)) anyway. With [semantic change](https://en.wikipedia.org/wiki/Semantic_change) even important words like _literally_ do not mean what they used to according to textbook definitions. Deep neural networks of LLMs handle the [semantic gap](https://en.wikipedia.org/wiki/Semantic_gap) with tokens and hidden layers to fool some into believing the machines understand.
 
 When Detective Carter says "Do you understand the words coming out of my mouth?" or a Bay Area rapper says "Yadadamean? Yadadam sayin" they're communicating more than just the basic meaning of the words. Even the machines can explain this, but the AI cannot know the underlying human feelings. Some call this [semantic density](https://metadataweekly.substack.com/p/the-semantic-gap-why-your-ai-still-cant-read-the-room) and highlight the need for trust and human decision-makers.
 
