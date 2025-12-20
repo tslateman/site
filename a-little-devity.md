@@ -3,12 +3,12 @@
 Powerful messages are\
 Poisoned by poor phrasing.\
 Belabor not a good point\
-~~with wasteful words.~~
+~~with wasteful words~~
 
 Simple as possible\
-No simpler.\
+No simpler\
 Concise\
-Not cut short.
+Not cut short
 
 Context with kindness\
 No kings nor queens\
@@ -18,7 +18,7 @@ But rots most words
 Opinions may divide\
 Open minds provide\
 Truth though discourse\
-Hot takes & cool heads
+In hot takes & cool heads
 
 Solve problems with care\
 Mind scars from pain\
@@ -28,17 +28,12 @@ Hence Smithsonian
 Accept current state\
 Worry not who's right\
 Seek the solution\
-In the space between
+In space and time
 
 Humble curiosity\
 Lower verbosity\
-Good questions\
-Move mountains
-
 Kaizen to kanban\
-Canaries to Cassandras\
-Deep waters to lifelines\
-More at bats to come
+Canaries to Cassandras
 
 Write to the record\
 Share to consensus\
@@ -56,8 +51,8 @@ Better understood\
 Better received
 
 Smart brevity\
-Thinks of the reader.\
-Respect.\
+Mind the reader\
+Respect\
 Say less
 
 ---
