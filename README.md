@@ -31,3 +31,5 @@ Thoughts on living and working well. Where philosophy meets programming.
 [A little **dev**ity](./a-little-devity.md)
 
 [i am ack bot](./i-am-ack-bot.md)
+
+[Language Story](./languag-story.md)
