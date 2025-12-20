@@ -22,7 +22,7 @@ While this is all plausible, a more likely answer is that English just adapted t
 
 Not all physical structures follow this "story" convention.
 
-Hotels typically just describe each level as a floor, such as "the lobby is on the ground floor", "your room is on the 14th floor", and in the elevator ride to get there fellow guests might ask "what floor are you on" but I've never heard "are you on the 3rd story?" from anyone inside a hotel describing the room levels. When *outside* the hotel, when describing the structure, the term "story" will describe how tall a building is. The Wikipedia page for the [tallest hotels](https://en.wikipedia.org/wiki/List_of_tallest_hotels) details a 111-story [Guangzhou CTF Finance Centre](https://en.wikipedia.org/wiki/Guangzhou_CTF_Finance_Centre "Guangzhou CTF Finance Centre"), but the page for [Hotel](https://en.wikipedia.org/wiki/Hotel) simply says.
+Hotels typically just describe each level as a floor, such as "the lobby is on the ground floor", "your room is on the 14th floor", and in the elevator ride to get there fellow guests might ask "what floor are you on" but I've never heard "are you on the 3rd story?" from anyone inside a hotel describing the room levels. When *outside* the hotel, when describing the structure, the term "story" will describe how tall a building is. The Wikipedia page for the [tallest hotels](https://en.wikipedia.org/wiki/List_of_tallest_hotels) details a 111-story [Guangzhou CTF Finance Centre](https://en.wikipedia.org/wiki/Guangzhou_CTF_Finance_Centre "Guangzhou CTF Finance Centre"), but the page for [Hotel](https://en.wikipedia.org/wiki/Hotel) simply uses floors.
 
 ### Stories within a story
 
