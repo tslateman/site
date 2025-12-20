@@ -10,7 +10,7 @@ I'll risk the hubris and say ours is the most advanced form of language of all l
 
 ## Words - Stories - Levels - Bays
 
-Humans have the power of written word, the Prometheus fire of the language universe. Written language grants us powers of communication, of storytelling, of chaining abstract thoughts together to construct complex concepts. The words provide building blocks to form structures, connecting one idea to another, building upon each other to create powerful sentences, stories, and narratives that chain story upon story. Once upon a time, we put such stories into these things called "books" and would _read_ stories, to ourselves, to one another.
+Humans have the power of written word, the Prometheus fire of the language universe. Written language grants us powers of communication, of storytelling, of chaining abstract thoughts together to construct complex concepts. The words provide building blocks to form structures, connecting one idea to another, building upon each other to create powerful sentences, stories, and narratives that chain story upon story. Once upon a time, we put such stories into these things called "books" and would _read_ stories, to ourselves and to one another.
 
 The word "story" even gets used to describe floors of a house. Why not just call them floors?
 
@@ -18,11 +18,15 @@ The sappy answer: rooms of a house are so much more than simply their floors, re
 
 While this is all plausible, a more likely answer is that English just adapted the Old French word estoree for "built" (source: https://en.wiktionary.org/wiki/storey). In the UK they use "storey" with the "e" when referring to buildings.
 
+### Exceptional stories
+
 Not all physical structures follow this "story" convention.
 
 Hotels typically just describe each level as a floor, such as "the lobby is on the ground floor", "your room is on the 14th floor", and in the elevator ride to get there fellow guests might ask "what floor are you on" but I've never heard "are you on the 3rd story?" from anyone inside a hotel describing the room levels. When *outside* the hotel, when describing the structure, the term "story" will describe how tall a building is. The Wikipedia page for the [tallest hotels](https://en.wikipedia.org/wiki/List_of_tallest_hotels) details a 111-story [Guangzhou CTF Finance Centre](https://en.wikipedia.org/wiki/Guangzhou_CTF_Finance_Centre "Guangzhou CTF Finance Centre"), but the page for [Hotel](https://en.wikipedia.org/wiki/Hotel) simply says.
 
-Even "levels" can be a powerful word. Kids sometimes say "there's levels to it" when saying something has a deeper meaning. Let's save that rabbit hole for another time. This story is already rather long... mind the yap.
+### Stories within a story
+
+Even "level" can be a powerful word. Kids sometimes say "there's levels to it" when saying something has a deeper meaning.
 
 Ships can have levels, too, called decks. Some ships even have [holodecks](https://en.wikipedia.org/wiki/Holodeck) to explore a story within a story, if you will. Why not call them floors?
 
@@ -31,13 +35,11 @@ Ships can have levels, too, called decks. Some ships even have [holodecks](https
 
 Many ships have rooms and even bays, like sick bay and cargo bay. But "The Bay" is special. The Bay refers to the San Francisco Bay Area.
 
-"The Bay" brings its own language. We have a melting pot of cultures, too many to list. Jen's been exposed to the "hyphy movement" originating from Oakland, long before our recent visit. I mention this because slang is such an important element of language and communication. More on this later. The Bay Area also has many southeast Asian people with many languages and dialects.
-
 ## Similarities between English, Chinese, and Taiwanese
 
 In English, we have a common written language, as well as a fairly common spoken language, with a few regional differences. Many have accents, but this is nowhere near the difference between Chinese and Taiwanese.
 
-Trigger Warning for Mom, 媽媽, and note for newbies: Please forgive the mix of simplified and traditional characters as I quote from sources and switch contexts. I usually favor the traditional ones because I learned on those, I find them more elegant, and the extra detail offers clarity. (Almost like uncompressed music and even certain lines from the [Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python) but let's save that for elsewhere.)
+Please forgive the mix of simplified and traditional characters as I quote from sources and switch contexts. I usually favor the traditional ones because I learned on those, I find them more elegant, and the extra detail offers clarity. (Almost like uncompressed music and even certain lines from the [Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python) but let's save that for elsewhere.)
 
 Chinese has 中文 ("central language") and many dialects
 Mandarin 普通话 ("ordinary talk") or 國語 ("national language")
