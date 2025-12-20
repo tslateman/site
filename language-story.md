@@ -77,9 +77,11 @@ Back to the "story" before, google search yielded the following from AI:
 None of the confusing collisions that occur with the American "story" usage. Note how characters used for language are not used to compose the word for story (故事).
 ### Bonus language
 
-While researching the characters to use, I pasted 話 into google and the following result returned.
+While researching the characters to use, I pasted 話 (huà) into google and the following result returned.
 
-![[Pasted image 20251130080551.png]]
+| Japanese - detected | English |
+| ------------------- | ------- |
+| 話                  | story   |
 
 Real talk!
 
