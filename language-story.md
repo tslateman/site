@@ -101,7 +101,7 @@ In Rush Hour, Detective Carter (Chris Tucker) flamboyantly said, "Do you underst
 
 The question was borderline rhetorical, a rather aggressive (albeit comical) [phatic expression](https://en.wikipedia.org/wiki/Phatic_expression)  aimed at Lee's ability. The implied superiority would be mean, were it not for the satirical irony of the character, and relatable frustrations of the failure to communicate. The fun part is we know Lee (and Jackie) "speaka any English" just fine, so Carter gets what's coming soon.
 
-Carter's was almost using a [pragmatic marker](https://www.nature.com/articles/palcomms201754)  but he was really just venting. Breaking this down, we can back into the common "you know" confirmation marker.
+Carter was almost using a [pragmatic marker](https://www.nature.com/articles/palcomms201754)  but he was really just venting. Breaking this down, we can back into the common "you know" confirmation marker.
 
 Do you know what I am trying to say?
 You know what I'm saying?
