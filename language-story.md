@@ -123,9 +123,9 @@ When Detective Carter says "Do you understand the words coming out of my mouth?"
 
 Some use [semantic differential](https://en.wikipedia.org/wiki/Semantic_differential) as a psychological measurement scale to measure a person's subjective perceptions toward a concept, object, or event. While useful for quantitative data and persuasion, the "bipolar adjectives" (e.g., _good-bad_, _strong-weak_) reduce the respondent's attitude into a dimension constrained by the words. Surveys can capture nuance between the opposites, but these are liable to miss true nuance and can present a false dichotomy. Still, we have to use the tools available (see https://youtu.be/kIg3YRqoh5s for more explanation).
 
-So the next time someone dismissively says "it's just semantics" check to see if the semantics actually matter before accepting the trivializing message. As a child, I was told "sticks and stones" as well-intended guidance to toughen up. Words are hard. For many people, language does not come easily. Words matter. The impact can be exponential. Some even say "words are like bullets" and cannot be brought back. Commit. Mean what you say and know what you mean.
+So the next time someone dismissively says "it's just semantics" check to see if the semantics actually matter before accepting the trivializing message. Words are hard. The impact of language can be far-reaching. Commit. Mean what you say and know what you mean.
 
-That's My Word
+*That's My Word*
 
 ---
 
