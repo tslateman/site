@@ -6,11 +6,13 @@
 
 Language is a funny thing. Communication is the real power, yet language often gets all the attention.
 
-I'll risk the hubris and say ours is the most advanced form of language of all life on earth. Dogs bark for their human's sake, birds and whales sing songs, even fungi send signals across mycelium networks, with some more chatty than others. None of the other living creatures have language like we do.
+If you could wish for any superpower, would you choose the ability to communicate with any living being in the world or would choose to have fluency in every language?
+
+Human language is the most advanced of all life on earth. Dogs bark for their human's sake, birds and whales sing songs, even fungi send signals across mycelium networks, with some more chatty than others. None of the other living creatures have language like we do.
 
 ## Words - Stories - Levels - Bays
 
-Humans have the power of written word, the Prometheus fire of the language universe. Written language grants us powers of communication, of storytelling, of chaining abstract thoughts together to construct complex concepts. The words provide building blocks to form structures, connecting one idea to another, building upon each other to create powerful sentences, stories, and narratives that chain story upon story. Once upon a time, we put such stories into these things called "books" and would _read_ stories, to ourselves and to one another.
+Humans have the written word, the Prometheus fire of the language universe. Written language supercharges our storytelling, chaining abstract thoughts together to construct complex concepts and committed them to shareable media. The words provide building blocks to form structures, connecting one idea to another, building upon each other to create powerful sentences, stories, and narratives that chain story upon story. Once upon a time, we put such stories into these things called "books" and would _read_ stories, to ourselves and to one another.
 
 The word "story" even gets used to describe floors of a house. Why not just call them floors?
 
@@ -36,6 +38,8 @@ Many ships have rooms and even bays, like sick bay and cargo bay. But "The Bay" 
 ## English, Chinese, and Taiwanese
 
 In English, we have a common written language, as well as a fairly common spoken language, with a few regional differences. Many have accents, but this is nowhere near the difference between Chinese and Taiwanese.
+
+Please forgive the mix of simplified and traditional characters as I quote from sources and switch contexts. I usually favor the traditional ones because I learned on those, I find them more elegant, and the extra detail offers clarity. Almost like music from vinyl records over lossy compressed files on digital media. Alas, the world moves on and I comply.
 
 Chinese has 中文 ("central language") and many dialects
 Mandarin 普通话 ("ordinary talk") or 國語 ("national language")
@@ -73,7 +77,7 @@ Back to the "story" before, google search to translate yielded the following fro
 | Word | Pinyin   | Meaning                      |
 | ---- | -------- | ---------------------------- |
 | 故事 | gùshi    | story, tale, narrative       |
-| 小说 | xiǎoshuō | fiction, novel               |
+| 小說 | xiǎoshuō | fiction, novel               |
 | 楼层 | lóucéng  | story or floor of a building |
 
 None of the confusing collisions that occur with the American "story" usage. Note how characters used for language are not used to compose the word for story (故事).
@@ -88,11 +92,15 @@ While researching the characters to use, I pasted 話 (huà) into google and the
 
 Real talk!
 
-## Understanding meaning
+## Colloquialism and Meaning
 
 What's the word? Know what I mean?
 
-### Emphasis and Slang
+### 食飯 ("ja bung")
+
+In many Taiwanese social settings, especially among family and friends, 食飯 ("ja bung") is used as a warm, informal way of saying "hello" much like asking "Have you eaten yet?" (literal translation: 食飽未 "Jia ba bue?"). This operates as a [phatic expression](https://en.wikipedia.org/wiki/Phatic_expression) to open up social channels and maintain relationships rather than to exchange factual information.
+
+### Checking for understanding
 
 In the movie Rush Hour, Detective Carter (Chris Tucker) flamboyantly said, "Do you understand the words coming out of my mouth?" to Lee (Jackie Chan).
 
@@ -114,7 +122,7 @@ A hella good song!
 
 ### Just semantics
 
-The real value is knowing what someone _means_, not just what the words mean. Words are only an approximation of subjective experience ([qualia](https://en.wikipedia.org/wiki/Qualia)) anyway. With [semantic change](https://en.wikipedia.org/wiki/Semantic_change) even important words like _literally_ do not mean what they used to according to textbook definitions. Deep neural networks of LLMs handle the [semantic gap](https://en.wikipedia.org/wiki/Semantic_gap) with tokens and hidden layers to fool some into believing the machines understand.
+The real power is knowing what someone _means_, not just the definition of words. Language can  only be an approximation of subjective experience ([qualia](https://en.wikipedia.org/wiki/Qualia)) anyway. With [semantic change](https://en.wikipedia.org/wiki/Semantic_change) even important words like _literally_ do not mean what they used to according to old textbook definitions. Deep neural networks of LLMs handle the [semantic gap](https://en.wikipedia.org/wiki/Semantic_gap) with tokens and hidden layers to fool some into believing the machines understand.
 
 When Detective Carter says "Do you understand the words coming out of my mouth?" or a Bay Area rapper says "Yadadamean? Yadadam sayin" they're communicating more than just the basic meaning of the words. Even the machines can explain this, but the AI cannot know the underlying human feelings. Some call this [semantic density](https://metadataweekly.substack.com/p/the-semantic-gap-why-your-ai-still-cant-read-the-room) and highlight the need for trust and human decision-makers.
 
