@@ -12,7 +12,7 @@ Human language is the most advanced of all life on earth. Dogs bark for their hu
 
 ## Words - Stories - Levels - Bays
 
-Humans have the written word, the Prometheus fire of the language universe. Written language supercharges our storytelling, chaining abstract thoughts together to construct complex concepts and committed them to shareable media. The words provide building blocks to form structures, connecting one idea to another, building upon each other to create powerful sentences, stories, and narratives that chain story upon story. Once upon a time, we put such stories into these things called "books" and would _read_ stories, to ourselves and to one another.
+The written word is the Prometheus fire of the language universe. Written language supercharges our storytelling, chaining abstract thoughts together to construct complex concepts and committed them to shareable media. The words provide building blocks to form structures, connecting one idea to another, building upon each other to create powerful sentences, stories, and narratives that chain story upon story. Once upon a time, we put such stories into these things called "books" and would _read_ stories, to ourselves and to one another.
 
 The word "story" even gets used to describe floors of a house. Why not just call them floors?
 
