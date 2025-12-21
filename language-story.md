@@ -58,7 +58,7 @@ My mapping is slightly different, traditional characters with simpler explanatio
 語 - dialect, phrases
 話 - talk, spoken word
 
-The italki post offers a longer answer, too. I'll leave you to explore. We have experts among us who I imagine can explain this even better.
+The italki post offers a longer answer, too. I'll leave you to explore.
 
 My favorite for Taiwanese is 臺語 (Tái yǔ) which combines 臺 ("tower") and 語 ("language")
 
