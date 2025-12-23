@@ -114,7 +114,7 @@ Ya know what I mean?
 Don't ya know?
 Ya know?
 
-Bringing this back around to the language of "The Bay" I alluded to before,
+Bringing this back around to the language of "The Bay" I alluded to before...
 
 > [Yadadamean? Yadada I'm saying though?](https://genius.com/11541754/E-40-tell-me-when-to-go/Yadadamean-yadada-im-saying-though)
 
