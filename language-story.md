@@ -104,7 +104,7 @@ In many Taiwanese social settings, especially among family and friends, 食飯 (
 
 In the movie Rush Hour, Detective Carter (Chris Tucker) flamboyantly said, "Do you understand the words coming out of my mouth?" to Lee (Jackie Chan).
 
-The question was borderline rhetorical, a rather aggressive (albeit comical) [phatic expression](https://en.wikipedia.org/wiki/Phatic_expression)  aimed at Lee's ability. The implied superiority would be mean, were it not for the satirical irony of the character, and relatable frustrations of the failure to communicate. The fun part is we know Lee (and Jackie) "speaka any English" just fine, so Carter gets what's coming soon.
+The question was borderline rhetorical, a rather aggressive (albeit comical) meta-communication aimed at Lee's ability. The implied superiority would be mean, were it not for the satirical irony of the character, and relatable frustrations of the failure to communicate. The fun part is we know Lee (and Jackie) "speaka any English" just fine, so Carter gets what's coming soon.
 
 Carter was almost using a [pragmatic marker](https://www.nature.com/articles/palcomms201754)  but he was really just venting. Breaking this down, we can back into the common "you know" confirmation marker.
 
