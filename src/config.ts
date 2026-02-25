@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://tslateman.com/",
   desc: "Thoughts on living and working well. Where philosophy meets programming.",
   title: "tslateman",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "",
   lightAndDarkMode: true,
   postPerIndex: 6,
   postPerPage: 8,
