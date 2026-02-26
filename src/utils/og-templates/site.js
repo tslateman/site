@@ -8,7 +8,8 @@ export default async () => {
       type: "div",
       props: {
         style: {
-          background: "#fefbfb",
+          background: "#171923",
+          color: "#e2e8f0",
           width: "100%",
           height: "100%",
           display: "flex",
@@ -23,8 +24,8 @@ export default async () => {
                 position: "absolute",
                 top: "-1px",
                 right: "-1px",
-                border: "4px solid #000",
-                background: "#ecebeb",
+                border: "4px solid #4a5568",
+                background: "#2d3748",
                 opacity: "0.9",
                 borderRadius: "4px",
                 display: "flex",
@@ -39,8 +40,8 @@ export default async () => {
             type: "div",
             props: {
               style: {
-                border: "4px solid #000",
-                background: "#fefbfb",
+                border: "4px solid #4a5568",
+                background: "#171923",
                 borderRadius: "4px",
                 display: "flex",
                 justifyContent: "center",
