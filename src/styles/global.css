@@ -13,15 +13,15 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-  --background: #212737;
-  --foreground: #eaedf3;
-  --accent: #ff6b01;
-  --muted: #343f60;
-  --border: #ab4b08;
+  --background: #171923;
+  --foreground: #e2e8f0;
+  --accent: #f6ad55;
+  --muted: #2d3748;
+  --border: #4a5568;
 }
 
 @theme inline {
-  --font-app: var(--font-google-sans-code);
+  --font-app: var(--font-inter);
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-accent: var(--accent);
