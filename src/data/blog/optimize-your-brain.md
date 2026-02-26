@@ -6,12 +6,10 @@ slug: optimize-your-brain
 featured: false
 draft: false
 tags:
-  - productivity
   - philosophy
 description: Diversify your inputs, know your own bugs, and build the mental habits that compound over a career.
 ---
 
-  
 ## 1. Diversify Your Input
 
 Don't just read Hacker News and Stack Overflow. Talk to people outside your bubble. Read books on different topics. Challenge your assumptions. Think of it as expanding your toolkit.

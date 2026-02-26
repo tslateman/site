@@ -7,10 +7,8 @@ featured: false
 draft: false
 tags:
   - engineering
-  - leadership
 description: Psychological safety, knowledge sharing, and the habits that make engineering teams better over time.
 ---
-
 
 ## 1. Psychological Safety is Key
 

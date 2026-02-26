@@ -7,7 +7,6 @@ featured: true
 draft: false
 tags:
   - philosophy
-  - stoicism
 description: "Marcus Aurelius drew four core virtues from Stoic tradition: Justice, Wisdom, Courage, Temperance."
 ---
 

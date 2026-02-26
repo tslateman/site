@@ -7,10 +7,8 @@ featured: false
 draft: false
 tags:
   - writing
-  - meta
 description: Personal reasons for writing publicly — from clarifying thought to building a record worth returning to.
 ---
-
 
 As I've mentioned before, it's important to [write things down](./write-things-down.md). I want to try elaborating on personal reasons for this site.
 
