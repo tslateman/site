@@ -11,16 +11,15 @@ tags:
 description: Intellectual virtues are character traits that support clear thinking. Engineers need them as much as technical skills.
 ---
 
-
 Intellectual virtues are character traits that support clear thinking and the pursuit of knowledge. They're habits of mind that help us learn, solve problems, and make sound judgments. Examples include curiosity, humility, courage, perseverance, and empathy. Cultivating these virtues leads to better thinking and more effective problem-solving.
 
 ## Why Intellectual Virtues Matter for Engineers
 
-Engineering is about solving problems, but the toughest problems demand more than just technical expertise. Intellectual virtues shape how we reason, decide, and tackle thorny challenges. A good engineer without these virtues is like a database without constraints - powerful but prone to corrupting its own output. There are [important benefits](./writing-benefits-for-engineers.md).
+Engineering is about solving problems, but the toughest problems demand more than just technical expertise. Intellectual virtues shape how we reason, decide, and tackle thorny challenges. A good engineer without these virtues is like a database without constraints - powerful but prone to corrupting its own output. There are [important benefits](/posts/writing-benefits-for-engineers).
 
 ## How Do We Actually Get These Virtues?
 
-It's not about chanting mantras or reading dusty philosophy books (though those might help some people). It's about practical steps and building good habits. Developing intellectual virtues is a lifelong journey that requires consistent reflection and practice. For individuals, see tips to [optimize your brain](./optimize-your-brain.md). For teams, see ideas about [building a better engineering culture](./building-a-better-eng-culture.md).
+It's not about chanting mantras or reading dusty philosophy books (though those might help some people). It's about practical steps and building good habits. Developing intellectual virtues is a lifelong journey that requires consistent reflection and practice. For individuals, see tips to [optimize your brain](/posts/optimize-your-brain). For teams, see ideas about [building a better engineering culture](/posts/building-a-better-eng-culture).
 
 ## The Bottom Line
 

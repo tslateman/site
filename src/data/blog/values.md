@@ -11,22 +11,21 @@ tags:
 description: Values inform decisions when paths diverge. A framework for the principles that guide choices.
 ---
 
-
-*Values inform decisions. These principles guide decisions when paths diverge.*
+_Values inform decisions. These principles guide decisions when paths diverge._
 
 Good means different things in different moments. Context shapes every judgment.
 
 ## Core Value Areas
 
-### [Self](./values-self.md)
+### [Self](/posts/values-self)
 
 Personal growth and inner harmony. Understanding your inner compass.
 
-### [Social](./values-social.md)
+### [Social](/posts/values-social)
 
 Meaningful connections and ethical interactions. Relationship quality determines life quality.
 
-### [Impact](./values-impact.md)
+### [Impact](/posts/values-impact)
 
 Striving for tangible results and making a difference. Ideas without execution remain fantasies.
 
