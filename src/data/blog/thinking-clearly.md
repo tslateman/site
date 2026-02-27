@@ -15,7 +15,7 @@ Intellectual virtues are character traits that support clear thinking and the pu
 
 ## Why Intellectual Virtues Matter for Engineers
 
-Engineering is about solving problems, but the toughest problems demand more than just technical expertise. Intellectual virtues shape how we reason, decide, and tackle thorny challenges. A good engineer without these virtues is like a database without constraints - powerful but prone to corrupting its own output. There are [important benefits](/posts/writing-benefits-for-engineers).
+Engineering is about solving problems, but the toughest problems demand more than just technical expertise. Intellectual virtues shape how we reason, decide, and tackle thorny challenges. A good engineer without these virtues is like a database without constraints - powerful but prone to corrupting its own output. There are [important benefits](/posts/intellectual-virtues-for-engineers).
 
 ## How Do We Actually Get These Virtues?
 

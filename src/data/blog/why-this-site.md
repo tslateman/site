@@ -14,7 +14,7 @@ As I've mentioned before, it's important to [write things down](/posts/write-thi
 
 ## Clarifies Thinking
 
-My thoughts often feel like a jumbled mess. Blame an overactive mind and deficient language skills. Writing them down forces me to commit words to express them, refining them in the process. I have to slow down enough to select the right ones that go together. Through that I form clearer ways to communicate what's in my head. This also checks my understanding. I can catch mistakes and areas I need to do more research and thinking on.
+My thoughts often feel like a jumbled mess. Blame an overactive mind and deficient language skills. Writing them down forces me to commit words to express them, refining them in the process. I have to slow down enough to select the right ones that go together. Through that I form clearer ways to communicate what's in my head. This also checks my understanding. I can catch mistakes and areas I need to do more research and thinking on. It's a way to [optimize your brain](/posts/optimize-your-brain) through deliberate practice.
 
 ## Written Record
 

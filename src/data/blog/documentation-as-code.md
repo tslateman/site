@@ -76,6 +76,7 @@ When documentation is treated as code:
 - Your future self thanks your past self
 - External users actually succeed with your APIs
 - Knowledge doesn't leave when people do
+- Teams [build a stronger engineering culture](/posts/building-a-better-eng-culture) around shared knowledge
 
 Documentation as code isn't about writing more. It's about writing documentation that stays accurate, useful, and alive. Make it part of your development cycle, not an afterthought.
 

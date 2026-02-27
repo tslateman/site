@@ -11,8 +11,7 @@ tags:
 description: Personal growth and inner harmony. Understanding your inner compass.
 ---
 
-
-*Personal growth and inner harmony. Understanding your inner compass.*
+_Personal growth and inner harmony. Understanding your inner compass._
 
 ## Mind & Memory: Writing, Reflecting, Journaling
 
@@ -20,7 +19,7 @@ Writing forces clarity from daily life. Reflection transforms opinions into idea
 
 ## Intellect & Growth: Reason, Learning, Wisdom
 
-Knowledge without wisdom is trivia. Reason tests ideas against reality. Learning feeds reason with fresh material. Wisdom discerns what matters and acts accordingly.
+Knowledge without wisdom is trivia. Reason tests ideas against reality. Learning feeds reason with fresh material. Wisdom discerns what matters and acts accordingly. There are practical ways to [optimize your brain](/posts/optimize-your-brain) for this kind of growth.
 
 ## Personal Well-being: Balance, Autonomy, Mindfulness
 

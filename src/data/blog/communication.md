@@ -30,4 +30,4 @@ Try to listen more. Be honest. Be kind. Be generous. That includes to yourself. 
 
 Use tools. Try to use the right ones. Use them well.
 
-Be open as much as possible. Practice. This will help you become a better communicator.
+Be open as much as possible. Practice. This will help you become a better communicator. Good communication is the foundation of [building a better engineering culture](/posts/building-a-better-eng-culture).

@@ -10,7 +10,7 @@ tags:
 description: "Marcus Aurelius drew four core virtues from Stoic tradition: Justice, Wisdom, Courage, Temperance."
 ---
 
-Marcus Aurelius emphasized several key virtues in his "Meditations" and personal philosophy, drawing from Stoic traditions while adding his own insights. Here are the main virtues he emphasized:
+Marcus Aurelius emphasized several key virtues in his "Meditations" and personal philosophy, drawing from Stoic traditions while adding his own insights. These same virtues underpin the [intellectual virtues that make engineers better](/posts/intellectual-virtues-for-engineers). Here are the main virtues he emphasized:
 
 Justice (Iustitia):
 

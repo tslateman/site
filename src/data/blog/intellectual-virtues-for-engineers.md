@@ -2,7 +2,7 @@
 author: Tommy Slater
 pubDatetime: 2025-03-05T00:00:00Z
 title: Intellectual Virtues for Engineers
-slug: writing-benefits-for-engineers
+slug: intellectual-virtues-for-engineers
 featured: false
 draft: false
 tags:

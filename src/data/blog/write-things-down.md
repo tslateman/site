@@ -11,7 +11,6 @@ tags:
 description: Writing clarifies thinking, preserves knowledge, and compounds over time.
 ---
 
-
 The importance of writing things down...
 
 - By hand
@@ -26,7 +25,7 @@ Why I love writing things down.
 
 ### Clarifies Thinking and Refines Understanding
 
-The act of writing demands precision where thoughts once wandered loose. When we wrestle thoughts and commit to words, fuzzy notions crystallize into sharper ideas. Each sentence tests clarity, forcing us to examine what we truly mean. Through this we deepen understanding.
+The act of writing demands precision where thoughts once wandered loose. When we wrestle thoughts and commit to words, fuzzy notions crystallize into sharper ideas. Each sentence tests clarity, forcing us to examine what we truly mean. Through this we deepen understanding. Writing is one of the best ways to [optimize your brain](/posts/optimize-your-brain).
 
 ### Written Record to Preserve Knowledge and Ideas
 

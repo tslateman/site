@@ -11,7 +11,7 @@ tags:
 description: Laziness, impatience, hubris — Larry Wall's counterintuitive programmer virtues and what they actually mean.
 ---
 
-Programmer virtues are sometimes counterintuitive.
+Programmer virtues are sometimes counterintuitive. They complement the [intellectual virtues](/posts/intellectual-virtues-for-engineers) that help engineers think clearly, and they shape the [culture](/posts/building-a-better-eng-culture) teams build around their code.
 
 ## Laziness Impatience Hubris
 
