@@ -32,4 +32,4 @@ The overactive mind lights up with seemingly stochastic patterns. This chaotic d
 
 Reflection:
 
-There's two kinds of reflection going on. There's the immediate one that happens as I write these, where I'm forced to do a reflection on my thoughts and experience to put words down. Then there's the delayed reflection that happens after a period of time passes and I can review the written record to look back on past writing.
+There are two kinds of reflection going on. There's the immediate one that happens as I write these, where I'm forced to do a reflection on my thoughts and experience to put words down. Then there's the delayed reflection that happens after a period of time passes and I can review the written record to look back on past writing.

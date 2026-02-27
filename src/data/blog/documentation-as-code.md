@@ -10,7 +10,7 @@ tags:
 description: Documentation deserves the same rigor as code. What it means to treat docs as a first-class citizen.
 ---
 
-Documentation deserves the same respect, rigor, and processes we apply to our code. Too often, documentation is an afterthought—something we grudgingly update when we remember. But what if we treated it as a first-class citizen in our development workflow?
+Documentation deserves the same respect, rigor, and processes we apply to our code. Too often, documentation is an afterthought: something we grudgingly update when we remember. But what if we treated it as a first-class citizen in our development workflow?
 
 ## The Problem with Traditional Documentation
 
@@ -77,6 +77,6 @@ When documentation is treated as code:
 - External users actually succeed with your APIs
 - Knowledge doesn't leave when people do
 
-Documentation as code isn't about writing more—it's about writing documentation that stays accurate, useful, and alive. Make it part of your development cycle, not an afterthought.
+Documentation as code isn't about writing more. It's about writing documentation that stays accurate, useful, and alive. Make it part of your development cycle, not an afterthought.
 
 Remember: Code explains _what_ and _how_. Documentation explains _why_.

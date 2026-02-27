@@ -17,7 +17,7 @@ description: Language is a funny thing. Communication is the real power, yet lan
 
 Language is a funny thing. Communication is the real power, yet language often gets all the attention.
 
-If you could wish for any superpower, would you choose the ability to communicate with any living being in the world or would choose to have fluency in every language?
+If you could wish for any superpower, would you choose the ability to communicate with any living being in the world or would you choose to have fluency in every language?
 
 Human language is the most advanced of all life on earth. Dogs bark for their human's sake, birds and whales sing songs, even fungi send signals across mycelium networks, with some more chatty than others. None of the other living creatures have language like we do.
 
