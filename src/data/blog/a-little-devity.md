@@ -28,7 +28,7 @@ But rots most words
 
 Opinions may divide\
 Open minds provide\
-Truth though discourse\
+Truth through discourse\
 In hot takes & cool heads
 
 Solve problems with care\
