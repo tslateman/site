@@ -18,4 +18,4 @@ Essays on engineering culture, communication, personal values, and the character
 ## Elsewhere
 
 - [GitHub](https://github.com/tslateman)
-- [LinkedIn](https://www.linkedin.com/in/tslateman/)
+- [LinkedIn](https://www.linkedin.com/in/tommyslater/)
