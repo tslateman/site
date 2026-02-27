@@ -11,7 +11,6 @@ tags:
 description: Language is a funny thing. Communication is the real power, yet language often gets all the attention.
 ---
 
-
 語言寓言 (yǔyán yùyán)
 
 ## Communication power
@@ -24,7 +23,7 @@ Human language is the most advanced of all life on earth. Dogs bark for their hu
 
 ## Words - Stories - Levels - Bays
 
-The written word is the Prometheus fire of the language universe. Written language supercharges our storytelling, chaining abstract thoughts together to construct complex concepts and committed them to shareable media. The words provide building blocks to form structures, connecting one idea to another, building upon each other to create powerful sentences, stories, and narratives that chain story upon story. Once upon a time, we put such stories into these things called "books" and would _read_ stories, to ourselves and to one another.
+The written word is the Prometheus fire of the language universe. Written language supercharges our storytelling, chaining abstract thoughts together to construct complex concepts and committing them to shareable media. The words provide building blocks to form structures, connecting one idea to another, building upon each other to create powerful sentences, stories, and narratives that chain story upon story. Once upon a time, we put such stories into these things called "books" and would _read_ stories, to ourselves and to one another.
 
 The word "story" even gets used to describe floors of a house. Why not just call them floors?
 
@@ -43,7 +42,7 @@ Kids sometimes say "there's levels to it" when saying something has a deeper mea
 Ships can have levels, too, called decks. Some ships even have [holodecks](https://en.wikipedia.org/wiki/Holodeck) to explore a story within a story, if you will. Why not call them floors?
 
 > The actual floor surface is called the sole; the term 'deck' refers to a structural member tying the ship's frames or ribs together over the keel
-> [wiki: deck](https://en.wikipedia.org/wiki/Deck_(ship)#:~:text=The%20actual%20floor%20surface%20is,ribs%20together%20over%20the%20keel)
+> [wiki: deck](<https://en.wikipedia.org/wiki/Deck_(ship)#:~:text=The%20actual%20floor%20surface%20is,ribs%20together%20over%20the%20keel>)
 
 Many ships have rooms and even bays, like sick bay and cargo bay. But "The Bay" is special. When I say, "The Bay" I'm referring to the San Francisco Bay Area, a place with many languages.
 
@@ -60,9 +59,10 @@ Taiwanese Hokkien 臺灣話 ("Taiwan talk") or 臺語 ("Taiwan - language")
 So many characters (or words) for language! What's the difference between "文", "语", and "话" ?
 
 The short answer from italki says:
->文 means language with implication of civilization, culture and learning (the written form) imbued within.
->语 means language, mostly interwined with the oral aspect of the language.
->话 means the oral aspect of the language
+
+> 文 means language with implication of civilization, culture and learning (the written form) imbued within.
+> 语 means language, mostly interwined with the oral aspect of the language.
+> 话 means the oral aspect of the language
 > <https://www.italki.com/en/post/question-429879>
 
 My mapping is slightly different, traditional characters with simpler explanations
@@ -82,7 +82,7 @@ These two characters are used in a couple other interesting words.
 As words become a blog post, they share from a 電臺 in a sense.
 The 成語 beautifully carry so much meaning so efficiently, one dreams to write words so well.
 
-Taiwanese, especially **Taigi** (臺語; _Tâi-gí_), has a delightful sense of kindness to the language. There's less formality than what comes with the stuffy 國語 Mandarin. Almost like the "southern hospitality" evoked by the drawls and contractions of southern United States. Specifically, I'm thinking more North Carolina, less West Texas, but I digress.
+Taiwanese, especially **Taigi** (臺語; *Tâi-gí*), has a delightful sense of kindness to the language. There's less formality than what comes with the stuffy 國語 Mandarin. Almost like the "southern hospitality" evoked by the drawls and contractions of southern United States. Specifically, I'm thinking more North Carolina, less West Texas, but I digress.
 
 Back to the "story" before, google search to translate yielded the following from AI:
 
@@ -118,7 +118,7 @@ In the movie Rush Hour, Detective Carter (Chris Tucker) flamboyantly said, "Do y
 
 The question was borderline rhetorical, a rather aggressive (albeit comical) meta-communication aimed at Lee's ability. The implied superiority would be mean, were it not for the satirical irony of the character, and relatable frustrations of the failure to communicate. The fun part is we know Lee (and Jackie) "speaka any English" just fine, so Carter gets what's coming soon.
 
-Carter was almost using a [pragmatic marker](https://www.nature.com/articles/palcomms201754)  but he was really just venting. Breaking this down, we can back into the common "you know" confirmation marker.
+Carter was almost using a [pragmatic marker](https://www.nature.com/articles/palcomms201754) but he was really just venting. Breaking this down, we can back into the common "you know" confirmation marker.
 
 Do you know what I am trying to say?
 You know what I'm saying?
@@ -134,7 +134,7 @@ A hella good song!
 
 ### Just semantics
 
-The real power is knowing what someone _means_, not just the definition of words. Language can  only be an approximation of subjective experience ([qualia](https://en.wikipedia.org/wiki/Qualia)) anyway. With [semantic change](https://en.wikipedia.org/wiki/Semantic_change) even important words like _literally_ do not mean what they used to according to old textbook definitions. Deep neural networks of LLMs handle the [semantic gap](https://en.wikipedia.org/wiki/Semantic_gap) with tokens and hidden layers to fool some into believing the machines understand.
+The real power is knowing what someone _means_, not just the definition of words. Language can only be an approximation of subjective experience ([qualia](https://en.wikipedia.org/wiki/Qualia)) anyway. With [semantic change](https://en.wikipedia.org/wiki/Semantic_change) even important words like _literally_ do not mean what they used to according to old textbook definitions. Deep neural networks of LLMs handle the [semantic gap](https://en.wikipedia.org/wiki/Semantic_gap) with tokens and hidden layers to fool some into believing the machines understand.
 
 When Detective Carter says "Do you understand the words coming out of my mouth?" or a Bay Area rapper says "Yadadamean? Yadadam sayin" they're communicating more than just the basic meaning of the words. Even the machines can explain this, but the AI cannot know the underlying human feelings. Some call this [semantic density](https://metadataweekly.substack.com/p/the-semantic-gap-why-your-ai-still-cant-read-the-room) and highlight the need for trust and human decision-makers.
 
