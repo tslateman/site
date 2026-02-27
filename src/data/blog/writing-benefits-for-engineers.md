@@ -1,16 +1,15 @@
 ---
 author: Tommy Slater
 pubDatetime: 2025-03-05T00:00:00Z
-title: Writing Benefits for Engineers
+title: Intellectual Virtues for Engineers
 slug: writing-benefits-for-engineers
 featured: false
 draft: false
 tags:
   - writing
   - engineering
-description: Writing helps engineers debug their own thinking, communicate clearly, and build credibility over time.
+description: Intellectual virtues like humility, rigor, and empathy are character traits that make engineers better thinkers, collaborators, and builders.
 ---
-
 
 Yes, I mean software engineers, programmers, or developers.
 

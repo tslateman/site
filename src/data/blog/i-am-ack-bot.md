@@ -11,7 +11,6 @@ tags:
 description: A poem about alert fatigue, empty runbooks, and the silence where context should be.
 ---
 
-
 ```txt
 noisy alert rings
 empty runbook mocks
@@ -36,7 +35,6 @@ i await my page
 ```
 
 ---
-\
-\
+
 inspired in part by\
 [what is my purpose?](https://www.reddit.com/r/rickandmorty/comments/5lkswq/whats_youre_absolute_favorite_scene_line_or/)
