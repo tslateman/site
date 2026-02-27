@@ -11,8 +11,7 @@ tags:
 description: Resources and reflections on communication — the real leverage point behind language.
 ---
 
-
-There's a lot of good material already out there. I encourage reading better authors before my own wramblings.
+There's a lot of good material already out there. I encourage reading better authors before my own ramblings.
 
 ## From the Professionals
 
