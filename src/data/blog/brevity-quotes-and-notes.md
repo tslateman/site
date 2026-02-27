@@ -11,24 +11,19 @@ tags:
 description: A collected reference on brevity — quotes, techniques, and notes on saying less better.
 ---
 
-
-`2025-07-12`
-
----
-
 ## Leisure Time
 
 Brevity takes work.
 
 Many quote Mark Twain with "I didn't have time to write a short letter, so I wrote a long one instead."
 
-Delightful! But was he *first* to write this?
+Delightful! But was he _first_ to write this?
 
 In 1656, French mathematician and philosopher [Blaise Pascal](https://en.wikiquote.org/wiki/Blaise_Pascal) wrote:
 
 > "Je n’ai fait celle-ci plus longue que parce que je n’ai pas eu le loisir de la faire plus courte."
 
-Google Translate converts this to "I only made this one longer because I didn't have the leisure to make it shorter." Almost, but not *exactly* the same.
+Google Translate converts this to "I only made this one longer because I didn't have the leisure to make it shorter." Almost, but not _exactly_ the same.
 
 Great humor can be achieved with plain words. The word "loisir" (leisure) isn't particularly fancy, but Twain's version is simpler.
 
@@ -46,7 +41,7 @@ Excellent point with many potential threads. Today, I'll focus on "nuance" becau
 
 Messages already reduce complex thoughts and emotions into a proxy of words, so special care must be taken to provide just enough detail to at least acknowledge the related nuance.
 
-Albert Maysles said, “Tyranny is the deliberate removal of nuance” and I think this pairs nicely with "Tyranny of choice" by Barry Schwartz in *The Paradox of Choice: Why More Is Less* (2004). Technically the latter is on too many decisions, so "Tyranny of verbosity" might be more appropriate.
+Albert Maysles said, “Tyranny is the deliberate removal of nuance” and I think this pairs nicely with "Tyranny of choice" by Barry Schwartz in _The Paradox of Choice: Why More Is Less_ (2004). Technically the latter is on too many decisions, so "Tyranny of verbosity" might be more appropriate.
 
 ## Resist Tyranny and Choose Simplicity
 
@@ -66,7 +61,7 @@ Less dramatic than "Tyranny of verbosity" but this was stated before LLMs got so
 
 ## Why Say Anything at All?
 
-There's a scene from *The Old Man* where Dan Chase (played by Jeff Bridges) shares a story about a wise man who refused to speak.
+There's a scene from _The Old Man_ where Dan Chase (played by Jeff Bridges) shares a story about a wise man who refused to speak.
 
 > "...because he believed that language deceived. That by its very nature, it clouded the truth, so it made the world harder to know. And, uh, this... this wise old man, he believed that the truth... the truth lived only in silence."
 
@@ -92,10 +87,6 @@ Let you do you
 
 ---
 
-\
-\
-<br>
+[^1]: _Twain's [actual letter](https://www.marktwainproject.org/letters/uccl00617/) wrote: "You’ll have to excuse my lengthiness—the reason I dread writing letters is because I am so apt to get to slinging wisdom & forget to let up. Thus much precious time is lost." - Relatable._
 
-[^1]: *Twain's [actual letter](https://www.marktwainproject.org/letters/uccl00617/) wrote: "You’ll have to excuse my lengthiness—the reason I dread writing letters is because I am so apt to get to slinging wisdom & forget to let up. Thus much precious time is lost." - Relatable.*
-
-[^2]: *In fairness, [Quote Investigator](https://quoteinvestigator.com/2011/05/13/einstein-simple/) quibbles about the precise origins of this Einstein quote, but time is both limited and relative. Do as you must.*
+[^2]: _In fairness, [Quote Investigator](https://quoteinvestigator.com/2011/05/13/einstein-simple/) quibbles about the precise origins of this Einstein quote, but time is both limited and relative. Do as you must._
