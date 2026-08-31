@@ -3,7 +3,7 @@ author: Tommy Slater
 pubDatetime: 2025-02-08T00:00:00Z
 title: Marcus Aurelius's Virtues
 slug: marcus-aurelius-virtues
-featured: true
+featured: false
 draft: false
 tags:
   - philosophy
