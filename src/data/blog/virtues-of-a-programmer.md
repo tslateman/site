@@ -1,6 +1,6 @@
 ---
 author: Tommy Slater
-pubDatetime: 2025-03-02T00:00:00Z
+pubDatetime: 2025-03-02T08:00:00Z
 title: Virtues of a Programmer
 slug: virtues-of-a-programmer
 featured: false

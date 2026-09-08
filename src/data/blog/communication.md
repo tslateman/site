@@ -1,6 +1,6 @@
 ---
 author: Tommy Slater
-pubDatetime: 2025-02-07T00:00:00Z
+pubDatetime: 2025-02-07T08:00:00Z
 title: Communication
 slug: communication
 featured: false

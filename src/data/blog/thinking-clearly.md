@@ -1,6 +1,6 @@
 ---
 author: Tommy Slater
-pubDatetime: 2025-02-18T00:00:00Z
+pubDatetime: 2025-02-18T08:00:00Z
 title: Thinking Clearly as Engineers
 slug: thinking-clearly
 featured: false

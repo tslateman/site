@@ -1,6 +1,6 @@
 ---
 author: Tommy Slater
-pubDatetime: 2025-07-05T00:00:00Z
+pubDatetime: 2025-07-05T08:00:00Z
 title: "Values: Social"
 slug: values-social
 featured: false
@@ -11,8 +11,7 @@ tags:
 description: Meaningful connections and ethical interactions. Relationship quality determines life quality.
 ---
 
-
-*Meaningful connections and ethical interactions. Relationship quality determines life quality.*
+_Meaningful connections and ethical interactions. Relationship quality determines life quality._
 
 ## Ethics & Character: Courage, Integrity, Justice
 

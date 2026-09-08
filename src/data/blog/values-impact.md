@@ -1,6 +1,6 @@
 ---
 author: Tommy Slater
-pubDatetime: 2025-07-05T00:00:00Z
+pubDatetime: 2025-07-05T08:00:00Z
 title: "Values: Impact"
 slug: values-impact
 featured: false
@@ -11,8 +11,7 @@ tags:
 description: Striving for tangible results. Ideas without execution remain fantasies.
 ---
 
-
-*Striving for tangible results and making a difference. Ideas without execution remain fantasies.*
+_Striving for tangible results and making a difference. Ideas without execution remain fantasies._
 
 ## Achievement & Productivity: Results, Pragmatism, Focus
 

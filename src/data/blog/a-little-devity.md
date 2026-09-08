@@ -1,6 +1,6 @@
 ---
 author: Tommy Slater
-pubDatetime: 2025-07-10T00:00:00Z
+pubDatetime: 2025-07-10T08:00:00Z
 title: A Little Devity
 slug: a-little-devity
 featured: false

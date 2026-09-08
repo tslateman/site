@@ -1,6 +1,6 @@
 ---
 author: Tommy Slater
-pubDatetime: 2025-12-20T00:00:00Z
+pubDatetime: 2025-12-20T08:00:00Z
 title: Language Story
 slug: language-story
 featured: false

@@ -1,6 +1,6 @@
 ---
 author: Tommy Slater
-pubDatetime: 2026-02-27T00:00:00Z
+pubDatetime: 2026-02-27T08:00:00Z
 title: Bash Is All You Need
 slug: bash-is-all-you-need
 featured: false

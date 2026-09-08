@@ -1,6 +1,6 @@
 ---
 author: Tommy Slater
-pubDatetime: 2025-07-07T00:00:00Z
+pubDatetime: 2025-07-07T08:00:00Z
 title: i am ack bot
 slug: i-am-ack-bot
 featured: false

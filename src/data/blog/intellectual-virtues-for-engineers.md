@@ -1,6 +1,6 @@
 ---
 author: Tommy Slater
-pubDatetime: 2025-03-05T00:00:00Z
+pubDatetime: 2025-03-05T08:00:00Z
 title: Intellectual Virtues for Engineers
 slug: intellectual-virtues-for-engineers
 featured: false

@@ -1,6 +1,6 @@
 ---
 author: Tommy Slater
-pubDatetime: 2025-07-12T00:00:00Z
+pubDatetime: 2025-07-12T08:00:00Z
 title: "Brevity: Quotes and Notes"
 slug: brevity-quotes-and-notes
 featured: false

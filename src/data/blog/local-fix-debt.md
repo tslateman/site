@@ -1,6 +1,6 @@
 ---
 author: Tommy Slater
-pubDatetime: 2026-08-30T00:00:00Z
+pubDatetime: 2026-08-30T08:00:00Z
 title: Local-Fix Debt
 slug: local-fix-debt
 featured: true

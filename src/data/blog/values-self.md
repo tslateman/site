@@ -1,6 +1,6 @@
 ---
 author: Tommy Slater
-pubDatetime: 2025-07-05T00:00:00Z
+pubDatetime: 2025-07-05T08:00:00Z
 title: "Values: Self"
 slug: values-self
 featured: false

@@ -1,6 +1,6 @@
 ---
 author: Tommy Slater
-pubDatetime: 2025-06-22T00:00:00Z
+pubDatetime: 2025-06-22T08:00:00Z
 title: Documentation as Code
 slug: documentation-as-code
 featured: true
