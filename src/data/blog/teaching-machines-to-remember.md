@@ -3,7 +3,7 @@ author: Tommy Slater
 pubDatetime: 2026-02-25T00:00:00Z
 title: Teaching Machines to Remember
 slug: teaching-machines-to-remember
-featured: true
+featured: false
 draft: false
 tags:
   - ai

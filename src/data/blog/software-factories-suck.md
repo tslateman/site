@@ -3,7 +3,7 @@ author: Tommy Slater
 pubDatetime: 2026-08-30T00:00:00Z
 title: Software Factories Suck
 slug: software-factories-suck
-featured: false
+featured: true
 draft: false
 tags:
   - ai
