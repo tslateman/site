@@ -1,6 +1,6 @@
 ---
 author: Tommy Slater
-pubDatetime: 2026-08-30T00:00:00Z
+pubDatetime: 2026-09-08T13:19:34Z
 title: Software Factories Suck
 slug: software-factories-suck
 featured: true
