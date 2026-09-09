@@ -1,4 +1,4 @@
-# tslateman.com
+# [tslateman.com](https://tslateman.com)
 
 [![CI](https://github.com/tslateman/site/actions/workflows/ci.yml/badge.svg)](https://github.com/tslateman/site/actions/workflows/ci.yml)
 
