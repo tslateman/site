@@ -5,9 +5,10 @@ import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import Card from "@/components/Card.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
+import postFilter from "@/utils/postFilter";
 import { SITE } from "@/config";
 
-const posts = await getCollection("blog", ({ data }) => !data.draft);
+const posts = await getCollection("blog", postFilter);
 const recentPosts = getSortedPosts(posts).slice(0, SITE.postPerIndex);
 ---
 
