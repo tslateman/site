@@ -5,25 +5,33 @@
 
 :root,
 html[data-theme="light"] {
-  --background: #fdfdfd;
-  --foreground: #282728;
-  --accent: #a96312;
-  --muted: #e6e6e6;
-  --border: #ece9e9;
+  --background: #fdfcf9;
+  --foreground: #1c1b19;
+  --subtle: #6f6a62;
+  --faint: #b2ada3;
+  --accent: #9a4f21;
+  --muted: #efece5;
+  --border: #e2ddd3;
 }
 
 html[data-theme="dark"] {
-  --background: #171923;
-  --foreground: #e2e8f0;
-  --accent: #f6ad55;
-  --muted: #2d3748;
-  --border: #4a5568;
+  --background: #16151a;
+  --foreground: #e6e2da;
+  --subtle: #9a948a;
+  --faint: #5c5860;
+  --accent: #d99a5b;
+  --muted: #23222a;
+  --border: #2f2d36;
 }
 
 @theme inline {
-  --font-app: var(--font-inter);
+  --font-app:
+    -apple-system, BlinkMacSystemFont, "Inter", "IBM Plex Sans", "Segoe UI",
+    Helvetica, Arial, sans-serif;
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-subtle: var(--subtle);
+  --color-faint: var(--faint);
   --color-accent: var(--accent);
   --color-muted: var(--muted);
   --color-border: var(--border);
@@ -37,13 +45,17 @@ html[data-theme="dark"] {
   }
   html {
     @apply overflow-y-scroll scroll-smooth;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
   }
   body {
-    @apply flex min-h-svh flex-col bg-background font-app text-foreground selection:bg-accent/75 selection:text-background;
+    @apply flex min-h-svh flex-col bg-background font-app text-foreground selection:bg-accent/20;
+    font-size: calc(0.9375rem + 0.25vw);
+    line-height: 1.5;
   }
   a,
   button {
-    @apply outline-offset-1 outline-accent focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-dashed;
+    @apply outline-offset-2 outline-accent focus-visible:outline-2 focus-visible:outline-dotted;
   }
   button:not(:disabled),
   [role="button"]:not(:disabled) {
@@ -52,19 +64,42 @@ html[data-theme="dark"] {
 }
 
 @utility max-w-app {
-  @apply max-w-3xl;
+  max-width: calc(37em + 3rem);
 }
 
 @utility app-layout {
-  @apply mx-auto w-full max-w-app px-4;
+  @apply mx-auto w-full max-w-app px-6;
 }
 
-.active-nav {
-  @apply underline decoration-wavy decoration-2 underline-offset-8;
+@utility rule {
+  @apply border-0 border-t border-border;
 }
 
-/* Source: https://piccalil.li/blog/a-more-modern-css-reset/ */
-/* Anything that has been anchored to should have extra scroll margin */
+@utility meta {
+  font-size: 0.875em;
+  line-height: 1.4;
+  color: var(--subtle);
+}
+
+@utility nav-text {
+  font-size: 0.9375em;
+  line-height: 1.4;
+}
+
+@utility heading-1 {
+  font-weight: 500;
+  font-size: calc(1.35em + 0.55vw);
+  letter-spacing: -0.02em;
+  line-height: 1.25;
+}
+
+@utility heading-2 {
+  font-weight: 500;
+  font-size: calc(1em + 0.2vw);
+  letter-spacing: -0.015em;
+  line-height: 1.3;
+}
+
 :target {
-  scroll-margin-block: 1rem;
+  scroll-margin-block: 2rem;
 }

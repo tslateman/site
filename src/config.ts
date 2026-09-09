@@ -6,11 +6,11 @@ export const SITE = {
   title: "tslateman",
   ogImage: "",
   lightAndDarkMode: true,
-  postPerIndex: 6,
+  postPerIndex: 10,
   postPerPage: 8,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
-  showBackButton: true,
+  showBackButton: false,
   editPost: {
     enabled: false,
     text: "Edit page",
