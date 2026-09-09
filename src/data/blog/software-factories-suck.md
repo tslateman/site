@@ -33,7 +33,7 @@ For an AI-enabled factory, the basis for quality moves from who made the change 
 
 Harnesses run loops in parallel: pull from a work queue, pass inspections and reviews, flow into production. Failures and user feedback return to the queue. Humans own the design and the accountability.
 
-That move costs more than it advertises. Code review runs on authorship today, whether or not we admit it. You read a careful senior's pull request differently than a first-week hire's, and you are right to. Strip the name off and every change arrives with identical standing. Inspection has to catch everything reputation used to.
+That move costs more than it advertises. Code review runs on authorship today, whether or not we admit it. You read a careful senior's pull request differently than a first-week hire's, and you are right to. Strip the name off and every change arrives with identical standing, leaving inspection to catch what reputation handled for free.
 
 **Verbalizing what counts as "good" becomes the scarce skill.** Building one good screen is not enough to hold quality in a factory that runs every day. That judgment must survive as constraints, guidelines, tests, and review items, in a form both humans and agents can use.
 
