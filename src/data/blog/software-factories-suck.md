@@ -12,7 +12,7 @@ tags:
 description: The agentic wave revived the software factory. What it would take to run one, and the limit no architecture escapes.
 ---
 
-The software factory is an [old concept](https://en.wikipedia.org/wiki/Software_factory#History) renewed by the agentic wave of the AI hype storm. I'm surprised to see so many embrace it so eagerly. Did we not learn from last time?
+The software factory is an [old concept](https://en.wikipedia.org/wiki/Software_factory#History) now renewed by the agentic wave of the AI hype cycle. I'm surprised to see so many embrace it so eagerly. Did we not learn from last time?
 
 ## What It Takes
 
