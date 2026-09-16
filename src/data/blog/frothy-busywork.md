@@ -12,15 +12,13 @@ tags:
 description: Agents that grade each other's homework, work sold as innovation, and the question of which illusions are worth keeping.
 ---
 
-Automation pays when the process is already defined. That is the precondition, and it is the one most often skipped.
+People overestimate their ability to automate. Companies have spent this year [rehiring the roles they cut](https://qz.com/companies-rehiring-workers-ai-layoffs-automation-070126), Ford and IBM and Commonwealth Bank of Australia among them. Nearly one in three US hiring managers eliminated a position while citing AI and then hired back for that role.
 
-Executives overestimate their ability to automate. Companies have spent this year [rehiring the roles they cut](https://qz.com/companies-rehiring-workers-ai-layoffs-automation-070126), Ford and IBM and Commonwealth Bank of Australia among them. Robert Half found nearly one in three US hiring managers eliminated a position citing AI and then hired back for that role or one like it. Forrester put the share of employers who regret an AI-related layoff at 55 percent.
-
-Automation can also harm workers without replacing them, which is the quieter outcome: the job survives, and it gets worse. An NBER paper puts the mechanism plainly, that [automation can reduce the value of work before it eliminates jobs](https://news.ycombinator.com/item?id=49601814#49603242). Bargaining power goes first. Demonstrating the machine is enough to move the negotiation, whether or not anyone ever deploys it.
+A quieter outcome: the job survives, and it gets worse. An NBER paper puts the mechanism plainly, that [automation can reduce the value of work before it eliminates jobs](https://news.ycombinator.com/item?id=49601814#49603242). Bargaining power goes first. Demonstrating the machine is enough to move the negotiation, whether or not anyone ever deploys it.
 
 ## Grading Each Other's Homework
 
-Hugh Cumming, CTO at Vena, [names the shape of it](https://www.forbes.com/councils/forbestechcouncil/2026/08/27/ais-most-dangerous-problem-isnt-failure-its-the-illusion-of-progress/) in Forbes.
+Hugh Cumming, CTO at Vena, [describes the pattern](https://www.forbes.com/councils/forbestechcouncil/2026/08/27/ais-most-dangerous-problem-isnt-failure-its-the-illusion-of-progress/) in Forbes.
 
 > The danger of AI isn't that it will fail. It's that it will succeed well enough, and for long enough, to look like progress—without ever driving real change.
 
@@ -58,4 +56,4 @@ Directives often contradict. Such is the duality of the world we live in. Even i
 
 [Box's line](https://en.wikipedia.org/wiki/All_models_are_wrong) sets the standard. A model's usefulness depends on how closely it resembles reality and whether it produces results aligned with the rewards you actually want.
 
-So: are the CEOs and billionaires right, or have they lost touch? Do their strategies work, or are hidden factors like luck and survivorship bias being discounted? What scope and time scale are we judging on? Have we modeled the system accurately, and does that even matter in the applied context?
+So are the CEOs and billionaires right, or have they lost touch? Do their strategies work, or are hidden factors like luck and survivorship bias being discounted? What scope and time scale are we judging on? Have we modeled the system accurately, and does that even matter in the applied context?
