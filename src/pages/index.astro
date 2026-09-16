@@ -15,9 +15,7 @@ const recentPosts = getSortedPosts(posts).slice(0, SITE.postPerIndex);
 <Layout>
   <Header />
   <main id="main-content" data-layout="index" class="app-layout">
-    <p class="max-w-[34rem] text-pretty">{SITE.desc}</p>
-
-    <section id="recent-posts" class="mt-12 sm:mt-16">
+    <section id="recent-posts">
       <h2 class="nav-text text-subtle">Recent</h2>
       <ul>
         {recentPosts.map(data => <Card variant="h3" {...data} />)}
